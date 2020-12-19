@@ -8,10 +8,10 @@ Aplikasi ini digunakan untukan mengelola data skripsi, jurnal dan aplikasi. Fung
 ## Teknologi
 Berikut adalah teknologi yang digunakan dalam membangun aplikasi ini:
 - Javascript, CSS, HTML
-- jquery, Bootstrap, AdminLTE
+- Jquery, Bootstrap, AdminLTE
 - CK Editor
 
 ## Release
 URL untuk akses Template Web Pengelolaan Data Tugas Akhir:
-- [Sisi User](https://ilham76c.github.io/web-data-tugas-akhir/views/user/)
-- [Sisi Admin](https://ilham76c.github.io/web-data-tugas-akhir/views/user/)
+- [Sisi User](https://ilham76c.github.io/template-web-ta/views/user/)
+- [Sisi Admin](https://ilham76c.github.io/template-web-ta/views/admin/dashboard.html)
